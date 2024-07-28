@@ -7,7 +7,7 @@ interface.
 
 Temperature readings on the desktop version of the management interface:
 
-![PVE GUI desktop screenshot](https://github.com/Zitt/pve-mods/v8.2.4/x299desktop.png?raw=true)
+![PVE GUI desktop screenshot](https://raw.githubusercontent.com/Zitt/pve-mods/main/v8.2.4/x299desktop.png)
 
 Updates based on the work by Alexleigh at https://github.com/alexleigh/pve-mods.
 Mobile updates not provided in this patch.
